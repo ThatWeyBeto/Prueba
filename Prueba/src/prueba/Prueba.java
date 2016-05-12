@@ -17,7 +17,8 @@ public class Prueba {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        JOptionPane.showConfirmDialog(null, "Ptueba");
+        JOptionPane.showConfirmDialog(null, "Putas y menudo bitches.");
+        
     }
     
 }
